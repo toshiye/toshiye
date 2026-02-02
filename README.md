@@ -34,7 +34,7 @@ I believe that **great code and great writing share the same DNA**: clarity, str
 
 ## 📫 How to Reach Me
 
-* **LinkedIn:** (https://www.linkedin.com/in/gabriel-sassaki-78004025/)
+* **[LinkedIn](https://www.linkedin.com/in/gabriel-sassaki-78004025/)**
 * **Goal:** Open to collaborating on international projects involving Node.js, TypeScript, and AI.
 
 ---
